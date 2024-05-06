@@ -31,11 +31,11 @@ Pack Express User Authentication Microservice is a Spring Boot application desig
 
 * Clone the repository:
 ```
-git clone https://github.com/sudhanshu2900/pack-express-user-auth.git
+https://github.com/sudhanshu2900/pack-express-userauth-microservice.git
 ```
 * Navigate to the project directory:
 ```
-cd pack-express-user-auth
+cd pack-express-userauth-microservice
 ```
 * Set up MySQL database:
   (1) Create a new MySQL database.
